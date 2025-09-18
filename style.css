@@ -1,0 +1,108 @@
+:root {
+  --gap: 20px; /* csempék közti hézag */
+  --aktfilm-pad: 12px; /* kártya belső margó */
+  --radius: 12px;
+}
+
+body {
+  margin: 0;
+  background: #e2e2e2;
+  font-family: system-ui, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin: 20px;
+}
+.content {
+  max-width: 1200px;
+  margin: 28px auto;
+  padding: 10px;
+}
+
+.aktdatum {
+  background: #f5f5f5;
+  border-radius: var(--radius);
+  padding: 16px;
+  margin: 22px 0;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  align-items: start;
+}
+
+.aktdatum > h3 {
+  margin: 0px;
+}
+
+.aktfilm {
+  background: #fff;
+  border-radius: 15px;
+  padding: 15px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+  height: 150px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 200px;
+}
+
+.aktfilm > p {
+  margin: 5px auto 5px auto;
+  font-size: 14px;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.aktfilm > h4 {
+  margin: 5px 0 5px 0;
+  font-size: 16px;
+  text-align: center;
+}
+
+.aktfilm > div > a > button {
+  background: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 15px 0px 0px 15px;
+  padding: 10px 20px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  width: 120px;
+  text-align: center;
+  height: 35px;
+  margin: 0;
+}
+
+.aktfilm > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.others{
+    background-color: white;
+    padding: 10px 20px;
+    width: 35px;
+    height: 35px;
+    border-radius: 0 15px 15px 0px;
+    padding: 0;
+    border: #007bff solid 2px;
+    margin: 0;
+}
+
+.others:hover {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
