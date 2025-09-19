@@ -1,11 +1,29 @@
 {
-  "from": "2025-07-21",
-  "to": "2025-09-18",
+  "from": "2025-07-22",
+  "to": "2025-09-19",
   "daysCount": 60,
   "days": [
     {
+      "date": "2025-09-19",
+      "count": 1,
+      "items": [
+        {
+          "from": "2025-09-19 00:28:08+0200",
+          "till": "2025-09-19 01:33:11+0200",
+          "durationMinutes": 65,
+          "title": "Az A38 Akusztik",
+          "subtitle": "Egri Péter és a Mystery Gang",
+          "age": "12",
+          "time": "00:28",
+          "channel": "ismeretlen",
+          "vpslug": "",
+          "videolink": "https://mediaklikk.hu/video/2025/09/16/zene/akusztik-egri-peter-es-a-mystery-gang"
+        }
+      ]
+    },
+    {
       "date": "2025-09-18",
-      "count": 5,
+      "count": 9,
       "items": [
         {
           "from": "2025-09-18 00:29:00+0200",
@@ -66,6 +84,54 @@
           "channel": "ismeretlen",
           "vpslug": "melissa-a-zold-volgy-lanya-2-evad-2-resz",
           "videolink": "https://mediaklikk.hu/video/2025/09/18/melissa-a-zold-volgy-lanya-2-evad-2-resz"
+        },
+        {
+          "from": "2025-09-18 15:45:38+0200",
+          "till": "2025-09-18 16:47:29+0200",
+          "durationMinutes": 62,
+          "title": "Női labdarúgó Bajnokok Ligája selejtező rájátszás: Ferencvárosi TC - Valerenga visszavágó mérkőzés",
+          "subtitle": "",
+          "age": "",
+          "time": "15:45",
+          "channel": "ismeretlen",
+          "vpslug": "noi-labdarugo-bajnokok-ligaja-selejtezo-rajatszas-ferencvarosi-tc-valerenga-visszavago-merkozes",
+          "videolink": "https://mediaklikk.hu/sport/video/2025/09/18/sport/noi-labdarugo-bajnokok-ligaja-selejtezo-rajatszas-ferencvarosi-tc-valerenga-visszavago-merkozes"
+        },
+        {
+          "from": "2025-09-18 19:49:54+0200",
+          "till": "2025-09-18 20:52:09+0200",
+          "durationMinutes": 62,
+          "title": "Férfi futsal Európa-bajnoki selejtező",
+          "subtitle": "Magyarország - Románia rájátszás 1. mérkőzés",
+          "age": "0",
+          "time": "19:49",
+          "channel": "ismeretlen",
+          "vpslug": "ferfi-futsal-europa-bajnoki-selejtezo-magyarorszag-romania-rajatszas-1-merkozes",
+          "videolink": "https://mediaklikk.hu/sport/video/2025/09/18/sport/ferfi-futsal-europa-bajnoki-selejtezo-magyarorszag-romania-rajatszas-1-merkozes"
+        },
+        {
+          "from": "2025-09-18 20:54:43+0200",
+          "till": "2025-09-18 21:55:38+0200",
+          "durationMinutes": 61,
+          "title": "Bagi-Nacsa Orfeuma",
+          "subtitle": "14. rész",
+          "age": "12",
+          "time": "20:54",
+          "channel": "ismeretlen",
+          "vpslug": "",
+          "videolink": "https://mediaklikk.hu/video/2025/09/16/bagi-nacsa-orfeuma-2025-09-18-i-adas"
+        },
+        {
+          "from": "2025-09-18 21:55:38+0200",
+          "till": "2025-09-18 23:14:13+0200",
+          "durationMinutes": 79,
+          "title": "Lőj a zongoristára!",
+          "subtitle": "",
+          "age": "12",
+          "time": "21:55",
+          "channel": "ismeretlen",
+          "vpslug": "",
+          "videolink": "https://mediaklikk.hu/video/2025/09/18/loj-a-zongoristara"
         }
       ]
     },
@@ -4050,72 +4116,6 @@
           "channel": "ismeretlen",
           "vpslug": "vizes-vilagbajnoksag-muuszas-noi-paros-technikai-donto-2",
           "videolink": "https://mediaklikk.hu/video/vizes-vilagbajnoksag-muuszas-noi-paros-technikai-donto-2/"
-        }
-      ]
-    },
-    {
-      "date": "2025-07-21",
-      "count": 5,
-      "items": [
-        {
-          "from": "2025-07-21 02:56:17+0200",
-          "till": "2025-07-21 03:59:05+0200",
-          "durationMinutes": 63,
-          "title": "Az A38 Akusztik",
-          "subtitle": "Escape My Shadows",
-          "age": "0",
-          "time": "02:56",
-          "channel": "ismeretlen",
-          "vpslug": "akusztik-escape-my-shadows",
-          "videolink": "https://mediaklikk.hu/video/akusztik-escape-my-shadows/"
-        },
-        {
-          "from": "2025-07-21 03:59:05+0200",
-          "till": "2025-07-21 05:00:06+0200",
-          "durationMinutes": 61,
-          "title": "Az A38 Akusztik",
-          "subtitle": "Quack",
-          "age": "0",
-          "time": "03:59",
-          "channel": "ismeretlen",
-          "vpslug": "akusztik-quack",
-          "videolink": "https://mediaklikk.hu/video/akusztik-quack/"
-        },
-        {
-          "from": "2025-07-21 05:30:55+0200",
-          "till": "2025-07-21 06:31:27+0200",
-          "durationMinutes": 61,
-          "title": "Vizes világbajnokság",
-          "subtitle": "Nyílt vízi úszás - női 3km kieséses sprint",
-          "age": "0",
-          "time": "05:30",
-          "channel": "ismeretlen",
-          "vpslug": "vizes-vilagbajnoksag-nyilt-vizi-uszas-noi-3km-kieseses-sprint",
-          "videolink": "https://m4sport.hu/video/2025/07/19/vizes-vilagbajnoksag-nyilt-vizi-uszas-noi-3km-kieseses-sprint"
-        },
-        {
-          "from": "2025-07-21 13:06:59+0200",
-          "till": "2025-07-21 14:08:12+0200",
-          "durationMinutes": 61,
-          "title": "Vizes világbajnokság",
-          "subtitle": "Műúszás - Női páros technikai döntő",
-          "age": "0",
-          "time": "13:06",
-          "channel": "ismeretlen",
-          "vpslug": "vizes-vilagbajnoksag-muuszas-noi-paros-technikai-donto-2",
-          "videolink": "https://mediaklikk.hu/video/vizes-vilagbajnoksag-muuszas-noi-paros-technikai-donto-2/"
-        },
-        {
-          "from": "2025-07-21 22:54:10+0200",
-          "till": "2025-07-21 23:59:59+0200",
-          "durationMinutes": 66,
-          "title": "Boléro-remix tánckoncert",
-          "subtitle": "",
-          "age": "0",
-          "time": "22:54",
-          "channel": "ismeretlen",
-          "vpslug": "bolero-remix-tanckoncert",
-          "videolink": "https://mediaklikk.hu/video/bolero-remix-tanckoncert/"
         }
       ]
     }

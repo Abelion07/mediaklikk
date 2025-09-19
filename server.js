@@ -157,12 +157,12 @@ function parseHtml(html) {
     };
 
     fs.writeFileSync(
-      `programs-last-${DAYS}d.json`,
+      `programs.json`,
       JSON.stringify(out, null, 2),
       "utf8"
     );
 
-    console.log(`Kész: programs-last-${DAYS}d.json`);
+    console.log(`Kész: programs.json`);
   } catch (err) {
     console.error("Végzetes hiba:", err.response?.status ?? "", err.message);
     if (err.response?.data) {

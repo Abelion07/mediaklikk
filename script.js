@@ -79,6 +79,8 @@ function others(item) {
     <p>Kezdés: ${item.time}</p>
     <p>Korhatár: ${item.age}</p>
     <p>Csatorna: ${item.channel}</p>
+    <p>${item.from}</p>
+    <p>${item.till}</p>
     <a href="${item.videolink}" target="_blank">Videó megtekintése</a>
     <br><br>
     <button id="closeModal" style="padding: 10px 20px; background: #007BFF; color: #fff; border: none; border-radius: 5px; cursor: pointer;">Bezárás</button>
